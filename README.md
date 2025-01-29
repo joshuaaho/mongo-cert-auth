@@ -92,7 +92,7 @@ mongosh --tls --tlsCertificateKeyFile /client/client_cert_key.pem --tlsCAFile /C
 
 ## References
 
-The following references were used:
+For more info references can be found below:
 
 ### Mongo
 
